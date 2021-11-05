@@ -1,0 +1,47 @@
+- name: MASC 515
+  place: USC
+  description: Basics of machine learning for materials introduces basics of materials modeling using machine learning (ML) and data science techniques.
+
+- name: MASC 520
+  place: USC
+  description: Mathematical methods for deep learning provides students with in-depth knowledge of mathematics needed to understand convolutional/recurrent neural networks and deep generative models.
+
+- name: MASC 575
+  place: USC
+  description: Basics of atomic simulation of materials coves molecular dynamics (MD) simulations of structural, thermodynamic and transport properties.
+
+- name: MASC 576
+  place: USC
+  description: Molecular dynamics simulations of materials and processes focuses on advanced correlation functions for structural and dynamical properties.
+
+- name: PHYS 513
+  place: USC
+  description: Application of quantum computers provides foundation and hands-on experience on both quantum-gate circuits and adiabatic quantum computers to solve scientific problems.
+
+- name: PHYS 516
+  place: USC
+  description: Methods of computational physics provides hands-on training on numerical methods in the context of physics simulations.
+  website: https://aiichironakano.github.io/phys516.html
+
+- name: CSCI 596
+  place: USC
+  description: Scientific computing and visualization teaches parallel computing and visualization for scientific applications.
+  website: https://aiichironakano.github.io/cs596.html
+
+- name: CSCI 653
+  place: USC
+  description: High performance computing and simulations covers advanced parallel and distributed algorithms, and massive data visualization and analytics in virtual reality environments.
+  website: https://aiichironakano.github.io/cs653.html
+
+- name: CSCI 699
+  place: USC
+  description: Extreme-scale quantum simulations addresses algorithmic and computing technologies that will make quantum-mechanical simulations metascalable on future computers.
+  website: https://aiichironakano.github.io/cs699.html
+
+- name: PHYS 235
+  place: Howard
+  description: Molecular simulation teaches basics of classical and quantum MD simulations to study various properties of matter.
+
+- name: CHE 502
+  place: Howard
+  description: Advanced chemical engineering thermodynamics teaches fundamentals of thermodynamics such as energy, reversibility, and phase/chemical equilibria.

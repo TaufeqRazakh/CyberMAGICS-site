@@ -1,0 +1,28 @@
+---
+layout: page
+title: PUBLICATIONS
+---
+<section id="publications">
+  <div class="container">
+    <div class="d-flex flex-column p-3 mb-3">
+      <ol>
+        {%for paper in site.data.publications %}
+        <li>
+          {% if paper.link %}
+          <a href="{{paper.link}}">{{paper.title}}</a>
+          {% else %}
+          <p>{{paper.title}}</p>
+          {% endif %}
+          <br />
+          {{paper.author}}
+          <br />
+          {% if paper.publisher and paper.volume %}
+          <i>{{paper.publisher}} </i> <strong>{{paper.page}}</strong>, {{paper.volume}}
+          ({{paper.year}})
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+</section>

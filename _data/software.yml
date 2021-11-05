@@ -1,0 +1,27 @@
+- name: AIQ-XMaS (AI & quantum-computing enabled exascale materials simulator)
+  description: A new generation of quantum materials simulator that integrates exascalable quantum, reactive and neural-network molecular dynamics simulations with unique AI and quantum-computing capabilities to study a wide range of materials and devices of high societal impact.
+  image: img/bg-material-genome-innovation-loop.png
+
+- name: QXMD
+  description: Nonadiabatic quantum molecular dynamics (NAQMD) simulations of ultrafast photoexcitation dynamics involving electrons and atoms.
+  source: https://github.com/USCCACS/QXMD
+
+- name: RXMD-NN
+  description: Reactive molecular dynamics (RMD) and neural-network molecular dynamics (NNMD) simulations provide quantum accuracy at a fraction of computing time.
+  source: https://github.com/USCCACS/RXMD/releases/tag/0.7
+
+- name: MAITAI
+  description: Materials informatics technology enabled by AI, including reinforcement and active learning to design optimal nano-architectures and deep generative models to find transition pathways.
+  source: https://magics.usc.edu/mlaisoft/
+
+- name: MISTIQS
+  description: Quantum materials dynamics assisted by machine learning (ML) on emerging quantum computers (e.g., IBM Q and Rigetti Aspen).
+  source: https://github.com/USCCACS/MISTIQS
+
+- name : EZFF
+  description: Easy force-field development and novel Pareto-frontal uncertainty quantification (UQ) to quickly start simulating new materials.
+  source: https://github.com/USCCACS/EZFF
+
+- name: GEARS
+  description: Immersive and interactive user interface to develop and perform simulations and experiments in virtual reality (VR).
+  source: https://github.com/USCCACS/GEARS

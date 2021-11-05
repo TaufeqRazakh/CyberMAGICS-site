@@ -1,0 +1,24 @@
+---
+layout: page
+title: SOFTWARE
+---
+
+<section id="software" class="bh-light-gray">
+  <div class="container">
+    {% for package in site.data.software %}
+    <p><span style="font-weight:600;">{{package.name}}:</span> {{package.description}}
+    {% if package.image %}
+    <div class="d-flex justify-content-center">
+      <img src="{{package.image}}" alt="...">
+    </div>
+
+    {% endif %}
+
+    {% if package.source %}
+    <br>
+    <a href="{{package.source}}" class="text-decoration-underline text-muted">source</a>
+    {% endif %}
+    </p>
+    {% endfor %}
+  </div>
+</section>

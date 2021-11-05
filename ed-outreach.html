@@ -1,0 +1,36 @@
+---
+layout: page
+title: EDUCATION & OUTREACH
+---
+
+<section class="bg-light-gray">
+  <div class="container">
+    <p><span style="font-weight:600;">Training modules:</span>
+      We develop and disseminate training modules as part of the AIQ-XMaS simulator.
+    </p>
+    <p><span style="font-weight:600;">Classroom piloting:</span>
+      We pilot the CyberMAGICS training modules in classroom setting at USC and Howard University.
+    </p>
+    <div class="row">
+      <div class="col-md-1">
+
+      </div>
+      <div class="col-md-11">
+        <ul>
+          {% for course in site.data.courses %}
+           <li>
+             <u>{{course.name}} ({{course.place}})</u>- {{course.description}}
+             {% if course.website %}
+             <a href="{{course.website}}" class="text-decoration-underline text-muted" style="font-style:italic;">website</a>
+             {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <p><span style="font-weight:600;">Workshops:</span>
+      To further train broader users, we organize one workshop each in Los Angeles and Washington, DC annually.
+
+    </p>
+  </div>
+</section>

@@ -3,7 +3,7 @@ header.masthead {
     // TIP: Background images are set within the HTML using inline CSS!
     margin-bottom: 50px;
     background: no-repeat center center;
-    background-color: $light-gray;
+    background-color: $cardinal;
     background-attachment: scroll;
     position: relative;
     background-size: cover;
@@ -14,7 +14,7 @@ header.masthead {
         left: 0;
         height: 100%;
         width: 100%;
-        background-color: $cardinal;
+        background-color: #212529;
         opacity: 0.5;
     }
 
@@ -22,7 +22,7 @@ header.masthead {
     .post-heading,
     .site-heading {
         padding: 200px 0 80px;
-        color: black;
+        color: white;
 
         @media only screen and (min-width: 768px) {
             padding: 200px 0;

@@ -8,7 +8,7 @@ title: TEAM
           <h2>University of Southern California</h2>
           <hr>
           <div class="row g-2">
-              {% for member in site.data.team_members %}
+              {% for member in site.data.core_members %}
               {% if member.affiliation == "USC" %}
                 <div class="col-sm-4 border-bottom">
                         {% if member.image %}
@@ -24,11 +24,29 @@ title: TEAM
 
               {% endfor %}
               </div>
+			  
+	          <div class="row g-2">
+	              {% for member in site.data.core_members %}
+	              {% if member.affiliation == "USC-other" %}
+	                <div class="col-sm-4 border-bottom">
+	                        {% if member.image %}
+	                        <img src="{{member.image}}" class="img-thumbnail rounded-circle" style="height:150px" alt="">
+	                        {% endif %}
+	                        <br>
+	                        <a href="{{member.website}}" class="h4"><strong>{{member.name}}</strong></a>
+	                        {% if member.title %}
+	                        (<span class="fw-bold">{{member.title}}</span>)
+	                        {% endif %}
+	                </div>
+	                {% endif %}
 
+	              {% endfor %}
+	              </div>
+				  
               <h2>Howard University</h2>
               <hr>
               <div class="row g-2">
-                  {% for member in site.data.team_members %}
+                  {% for member in site.data.core_members %}
                   {% if member.affiliation == "HU" %}
                     <div class="col-sm-4 border-bottom">
                             {% if member.image %}
@@ -44,11 +62,47 @@ title: TEAM
 
                   {% endfor %}
             </div>
+			
+              <div class="row g-2">
+                  {% for member in site.data.core_members %}
+                  {% if member.affiliation == "HU-other" %}
+                    <div class="col-sm-4 border-bottom">
+                            {% if member.image %}
+                            <img src="{{member.image}}" class="img-thumbnail rounded-circle" style="height:150px" alt="">
+                            {% endif %}
+                            <br>
+                            <a href="{{member.website}}" class="h3"><strong>{{member.name}}</strong></a>
+                            {% if member.title %}
+                            (<span class="fw-bold">{{member.title}}</span>)
+                            {% endif %}
+                    </div>
+                    {% endif %}
 
-            <h2>Advisors/Collaborators</h2>
+                  {% endfor %}
+            </div>
+			
+            <h2>Internal Advisors</h2>
             <hr>
             <div class="row g-2">
-                {% for member in site.data.team_members %}
+                {% for member in site.data.internal_advisors %}               
+                  <div class="col-sm-4 border-bottom">
+                          {% if member.image %}
+                          <img src="{{member.image}}" class="img-thumbnail rounded-circle" style="height:150px" alt="">
+                          {% endif %}
+                          <br>
+                          <a href="{{member.website}}" class="h4"><strong>{{member.name}}</strong></a>
+                          {% if member.title %}
+                          (<span class="fw-bold">{{member.title}}</span>)
+                          {% endif %}
+                  </div>
+
+                {% endfor %}
+          </div>
+		  
+            <h2>External Advisors</h2>
+            <hr>
+            <div class="row g-2">
+                {% for member in site.data.external_advisors %}
                 {% if member.affiliation != "HU" and member.affiliation != "USC" %}
                   <div class="col-sm-4 border-bottom">
                           {% if member.image %}
@@ -64,6 +118,5 @@ title: TEAM
 
                 {% endfor %}
           </div>
-
         </div>
     </section>

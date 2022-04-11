@@ -1,0 +1,59 @@
+- name: Aiichiro Nakano
+  title: PI
+  affiliation: USC
+  website: https://viterbi.usc.edu/directory/faculty/Nakano/Aiichiro
+  image: img/Nakano.jpg
+
+- name: Ken-ichi Nomura
+  title: co-PI
+  affiliation: USC
+  website: https://viterbi.usc.edu/directory/faculty/Nomura/Ken-ichi
+  image: img/Nomura.jpg
+
+- name: Priya Vashishta
+  title: co-PI
+  affiliation: USC
+  website: https://viterbi.usc.edu/directory/faculty/Vashishta/Priya
+  image: img/Vashishta.jpg
+
+- name: Taufeq Mohammed Razakh
+  affiliation: USC-other
+  website: https://taufeqrazakh.github.io/
+
+- name: Tao Wei
+  title: Howard PI
+  affiliation: HU
+  image: img/wei.jpg
+
+- name: Pratibha Dev
+  title: co-PI
+  affiliation: HU
+  website: https://profiles.howard.edu/profile/46891/pratibha-dev
+  image: img/Dev.jpg
+
+- name: Sai Krishna Narayanan
+  title: PhD Student
+  affiliation: HU-other
+  image: img/SaiKrishna.jpg
+  
+- name: Timothy Tizhe Fidelis
+  title: Graduate Student
+  affiliation: HU-other
+  image: img/Timothy.jpg
+
+- name: Sharmila Shirodkar
+  title: Research Scientist
+  affiliation: HU-other
+  image: img/Sharmila.jpg
+
+- name: Dr. BD Kim
+  affiliation: USC-CARC
+  title: Cyber-Infrastructure Advisor
+
+- name: Dr. Marco Olguin
+  affiliation: USC-CARC
+  title: Cyber-Infrastructure Advisor
+
+- name: Prof. Gisele Ragusa
+  affiliation: USC Engineering Education
+  title: Evaluation Advisor

@@ -1,33 +1,96 @@
-- name: Prof. Anastassia Alexandrova, 
-  title: University of California, Santa Barbara
+- name : Prof. Anastassia Alexandrova
+  affiliation : University of California, Santa Barbara
+
+- name: Dr. Lindsay Bassman 
+  affiliation: Lawrence Berkeley National Lab
+
+- name: Dr. Ekin Dogus Cubuk
+  affiliation: Google
+
+- name: Dr. Huikuan Chao
+  affiliation: Dow Chemical Company
+
+- name: Prof. Hanning Chen
+  affiliation: American  University
+
+- name: Prof. Zhan Chen
+  affiliation: University of Michigan
+
+- name: Prof. Pei Dong
+  affiliation: George Mason University
+
+- name: Dr. Timothy Germann
+  affiliation: Los Alamos National Lab
+
+- name: Prof. Jason Green 
+  affiliation: University of Massachusetts, Boston
+
+- name: Prof. Sungwook Hong 
+  affiliation: California State University, Bakersfield 
+
+- name: Prof. Rafael Jaramillo
+  affiliation: MIT 
+
+- name: Dr. Jeongnim Kim 
+  affiliation: Intel
+
+- name: Prof. Gang Lu 
+  affiliation: California State University, Northridge
+
+- name: Dr. Ye Luo
+  affiliation: Argonne National Lab
+
+- name:	Prof. Ashlie Martini 
+  affiliation: University of California, Merced 
+
+- name: Prof. Kristin Persson 
+  affiliation: University of California, Berkeley
+
+- name: Dr. Steve Plimpton 
+  affiliation: Sandia National Lab
+
+- name: Prof. Baofu Qiao
+  affiliation: Northwestern University
+
+- name: Prof. Rampi Ramprasad
+  affiliation: Georgia Tech
+
+- name: Prof. Trevor Rhone
+  affiliation: Rensselaer Polytechnic Institute
+
+- name: Dr. Vincent Sharma
+  affiliation: University of Tennessee, Knoxville
+
+- name: Prof. Danmeng Shuai
+  affiliation: George Washington University
+
+- name:	Prof. Alejandro Strachan
+  affiliation: Purdue University
+
+- name:	Prof. Izabela Szlufarska
+  affiliation: University of Wisconsin, Madison
+
+- name:	Prof. Xiuping Tao
+  affiliation: Winston-Salem State University
+
+- name:	Dr. Subodh Tiwari
+  affiliation: Schrödinger
+
+- name: Prof. William Uspal 
+  affiliation: University of Hawaii, Manoa
+
+- name:	Prof. Adri van Duin
+  affiliation: Penn State University
+
+- name:	Prof. Nam Sun Wang
+  affiliation: University of Maryland
   
-2.	Dr. Lindsay Bassman, Lawrence Berkeley National Lab
-3.	Dr. Ekin Dogus Cubuk, Google
-4.	Dr. Huikuan Chao, Dow Chemical Company
-5.	Prof. Hanning Chen, American University
-6.	Prof. Zhan Chen, University of Michigan
-7.	Prof. Pei Dong, George Mason University
-8.	Dr. Timothy Germann, Los Alamos National Lab
-9.	Prof. Jason Green, University of Massachusetts, Boston
-10.	Prof. Sungwook Hong, California State University, Bakersfield 
-11.	Prof. Rafael Jaramillo, MIT 
-12.	Dr. Jeongnim Kim, Intel
-13.	Prof. Gang Lu, California State University, Northridge
-14.	Dr. Ye Luo, Argonne National Lab
-15.	Prof. Ashlie Martini, University of California, Merced 
-16.	Prof. Kristin Persson, University of California, Berkeley
-17.	Dr. Steve Plimpton, Sandia National Lab
-18.	Prof. Baofu Qiao, Northwestern University
-19.	Prof. Rampi Ramprasad, Georgia Tech
-20.	Prof. Trevor Rhone, Rensselaer Polytechnic Institute
-21.	Dr. Vincent Sharma, University of Tennessee, Knoxville
-22.	Prof. Danmeng Shuai, George Washington University
-23.	Prof. Alejandro Strachan, Purdue University
-24.	Prof. Izabela Szlufarska, University of Wisconsin, Madison
-25.	Prof. Xiuping Tao, Winston-Salem State University
-26.	Dr. Subodh Tiwari, Schrödinger
-27.	Prof. William Uspal, University of Hawaii, Manoa
-28.	Prof. Adri van Duin, Penn State University
-29.	Prof. Nam Sun Wang, University of Maryland
-30.	Dr. Lin Yang, Lawrence Livermore National Lab
-31.	Prof. Xiaolin Zheng, Stanford University
+- name:	Dr. Lin Yang
+  affiliation: Lawrence Livermore National Lab
+
+- name:	Prof. Xiaolin Zheng
+  affiliation: Stanford University
+
+
+
+

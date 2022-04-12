@@ -90,7 +90,7 @@ title: TEAM
                           <img src="{{member.image}}" class="img-thumbnail rounded-circle" style="height:150px" alt="">
                           {% endif %}
                           <br>
-                          <a href="{{member.website}}" class="h4"><strong>{{member.name}}</strong></a>
+                          <h4><strong>{{member.name}}</strong></h4>
                           {% if member.title %}
                           (<span class="fw-bold">{{member.title}}</span>)
                           {% endif %}
@@ -109,9 +109,9 @@ title: TEAM
                           <img src="{{member.image}}" class="img-thumbnail rounded-circle" style="height:150px" alt="">
                           {% endif %}
                           <br>
-                          <a href="{{member.website}}" class="h4"><strong>{{member.name}}</strong></a>
-                          {% if member.title %}
-                          (<span class="fw-bold">{{member.title}}</span>)
+                          <h4><strong>{{member.name}}</strong></h4>
+                          {% if member.affiliation %}
+                          (<span class="fw-bold">{{member.affiliation}}</span>)
                           {% endif %}
                   </div>
                   {% endif %}

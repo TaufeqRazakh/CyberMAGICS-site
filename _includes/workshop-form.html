@@ -1,0 +1,80 @@
+<form action="https://formcarry.com/s/gvN-3gKtalG" method="POST">
+	<div class="mb-3">
+	  <label class="form-label">Email address</label>
+	  <input type="email" class="form-control" name="email" required="true">
+	</div>
+	<div class="mb-3">
+	  <p class="form-label">Name</p>
+	  <label > First </label>
+	  <input type="text" class="form-control" name="first" required="true">
+	  <label > Middle </label>
+	  <input type="text" class="form-control" name="middle">
+	  <label > Last </label>
+	  <input type="text" class="form-control" name="last" required="true">
+	</div>
+	
+	<div class="mb-3">
+		<p class="form-label">Address</p>
+		<label> Street Address </label>
+		<input type="text" class="form-control" name="street-address" required="true">
+		<label>  Address Line 2 </label>
+		<input type="text" class="form-control" name="address-line-2" required="true">
+		<label> City </label>
+		<input type="text" class="form-control" name="street-address" required="true">
+		<label> State </label>
+		<input type="text" class="form-control" name="state" required="true">
+		<label> Zip Code </label>
+		<input type="text" class="form-control" name="zip-code" required="true">
+	</div>
+	
+	<div class="mb-3">
+		<p class="form-label">Academic Information</p>
+		<label> University/Institution </label>
+		<input type="text" class="form-control" name="instituition" required="true">
+		
+		<label> Department </label>
+		<input type="text" class="form-control" name="department" required="true">
+		
+		<label> Job Title (Graduate student, Postdoc, Professor) </label>
+		<input type="text" class="form-control" name="job-title" required="true">
+		
+		<label> Area of Research  </label>
+		<input type="text" class="form-control" name="job-title" required="true">
+		
+	</div>
+	
+	<div class="mb-3">
+		<p class="form-label">Experience with Linux/Unix</p>
+		
+		<label> Have you ever worked with UNIX/Linux using terminal </label>
+		<select name="unix-experience">
+		  <option value="yes" selected>Yes</option>
+		  <option value="no">No</option>		  
+		</select>
+		
+		<label> Prior simulation experience </label>
+		<select name="prior-simulation-experience">
+		  <option value="yes" selected>Yes</option>
+		  <option value="no">No</option>		  
+		</select>
+		
+		<label> Simulation software used </label>
+		<span>Please let us know if you have used any simulation package such as LAMMPS, VASP, Quantum espresso, NAMD</span>		
+		<input type="text" class="form-control" name="sim-softwares" required="true">		
+		
+	</div>
+	
+	<div class="mb-3">				
+		<label>Upload CV</label>
+		<input type="file" class="form-control" name="cv" required="true">
+	</div>
+	
+	<div class="mb-3">
+		<p class="form-label">Upload letter of support (From Advisor/Mentor)</p>
+		
+		<label>Letter of of support (LOS) from your advisor/mentor is mandatory. Please upload your LOS from this form, or share this link ( https:cybermagics.netlify.app/workshop-registration ) with your advisor/mentor to submit separately.</label>
+				<input type="file" class="form-control" name="support-letter" required="true">
+	</div>
+	
+	<button type="submit">Send</button>
+</form>

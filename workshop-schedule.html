@@ -1,0 +1,29 @@
+---
+layout: page
+title: Workshop Schedule (June 30 – July 2, 2022)
+---
+
+<section id="schedule">
+	<div class="container">
+		<table class="table table-bordered">		  
+		{% for event in site.data.schedule %}			
+			{% if event.day %}
+				<tr>
+					<th colspan="4" class="text-center""> {{ event.day }}</th>
+				</tr>
+			  	<tr>
+					<td>Time(PDT)</td>
+					<td colspan="2">Topic</td>
+					<td>Instructor</td>
+				</tr>
+			  {% else %}
+			  	<tr>
+					<td>{{ event.time }}</td>
+					<td colspan="2">{{ event.topic }}</td>
+					<td>{{ event.instructor}}</td>
+				</tr>
+			  {% endif %}
+		{% endfor %}
+		</table>
+	</div>
+</section>

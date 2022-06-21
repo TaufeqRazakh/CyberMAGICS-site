@@ -1,0 +1,64 @@
+- day: Thursday, June 30, 2022
+
+- time: 8:00 am - 9:00 am
+  topic: Introduction and logistics
+  instructor: Aiichiro Nakano
+
+- time: 9:00 am - 10:00 am
+  topic: Molecular dynamics simulation basics
+  instructor: Priya Vashishta
+
+- time: 10:00 am - 10:30 am
+  topic: Reactive molecular dynamics basics
+  instructor: Ken-ichi Nomura
+
+- time: 10:30 am - 11:00 am
+  topic: Overview of Google Colab and Jupyter notebook
+  instructor: Ken-ichi Nomura
+
+- time: 11:00 am - 12:00 pm
+  topic: Lunch break 
+
+- time: 12:00 pm - 2:00 pm
+  topic: "Reactive molecular dynamics hands on: RXMD code"
+  instructor: Ankit Mishra, Nitish Baradwaj
+
+- time: 2:00 pm - 3:00 pm
+  topic: Machine learning basics
+  instructor: Ken-ichi Nomura
+
+- day: Friday, July 1, 2022
+
+- time: 8:00 am - 9:00 am
+  topic: Machine learning hands-on
+  instructor: Ankit Mishra, Nitish Baradwaj
+
+- time: 9:00 am - 10:00 am
+  topic: Quantum molecular dynamics basics
+  instructor: Aiichiro Nakano
+
+- time: 10:00 am - 11:00 am
+  topic: "Quantum molecular dynamics hands-on: QXMD code (part 1)"
+  instructor: Thomas Linker, Anikeya Aditya
+
+- time: 11:00 am - 12:00 pm
+  topic: Lunch break 
+
+- time: 12:00 pm - 1:00 pm
+  topic: "Quantum molecular dynamics hands-on: QXMD code (part 2)"
+  instructor: Thomas Linker, Anikeya Aditya
+
+- time: 1:00 pm - 3:00 pm
+  topic: Quantum computing basics and hands-on
+  instructor: Aiichiro Nakano, Shogo Fukushima
+  
+- day: Saturday, July 2, 2022
+
+- time: 9:00 am - 11:00 am
+  topic: Participant presentations
+  instructor: All participants
+
+- time: 11:00 am - 11:15 am
+  topic: Closing remarks
+  instructor: Pratibha Dev, Tao Wei
+  

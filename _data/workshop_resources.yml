@@ -2,38 +2,48 @@
 
 - name: Introduction & logistics
   link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/MAGICS_workshop_ReaxFF_lecture.pdf"
-
+  active: no
+  
 - name: Molecular dynamics simulation basics
   link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/MAGICS_workshop_ReaxFF_lecture.pdf"
-
+  active: no 
+  
 - session_name: Reactive Molecular Dynamics (RMD), RXMD Software
 
 - name: RMD lecture
   link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/MAGICS_workshop_ReaxFF_lecture.pdf"
+  active: no 
   
 - name: RXMD hands-on notebook
   link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/RXMD_Handson.pdf"
-
+  active: no 
+  
 - session_name: Quantum Molecular Dynamics (QMD), QXMD Software
 
 - name: QMD lecture
   link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/QMD-Nakano.pdf"
-
+  active: no 
+  
 - name: QXMD hands-on notebook
   link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Intro_to_QXMD.pdf"
-
+  active: no 
+  
 - session_name: Machine Learning (ML)
 
 - name: ML lecture
   link: "https://drive.google.com/drive/folders/1EMoDyo75gTuxrAOTi0Mi_dCGBz9o_vd2"
-
+  active: no 
+  
 - name: ML hands-on notebook
   link: "https://drive.google.com/drive/folders/1EMoDyo75gTuxrAOTi0Mi_dCGBz9o_vd2"
+  active: no 
   
 - session_name: Quantum Computing (QC)
 
 - name: QC lecture
   link: "https://drive.google.com/drive/folders/1EMoDyo75gTuxrAOTi0Mi_dCGBz9o_vd2"
-
+  active: no 
+  
 - name: QC hands-on
   link: "https://drive.google.com/drive/folders/1EMoDyo75gTuxrAOTi0Mi_dCGBz9o_vd2"
+  active: no 

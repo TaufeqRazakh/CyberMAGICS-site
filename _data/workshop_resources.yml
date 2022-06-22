@@ -1,3 +1,11 @@
+- session_name: Introduction
+
+- name: Introduction & logistics
+  link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/MAGICS_workshop_ReaxFF_lecture.pdf"
+
+- name: Molecular dynamics simulation basics
+  link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/MAGICS_workshop_ReaxFF_lecture.pdf"
+
 - session_name: Reactive Molecular Dynamics (RMD), RXMD Software
 
 - name: RMD lecture

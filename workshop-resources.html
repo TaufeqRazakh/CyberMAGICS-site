@@ -1,0 +1,20 @@
+---
+layout: page
+title: Courseware
+---
+
+
+<div class="container">
+	<div class="row row-col-auto">
+	{% for resource in site.data.workshop_resources %}
+	{% unless resource.session_name %}
+	<div class="col-5" >
+		<a href={{resource.link}}>{{ resource.name }}</a>
+	</div>
+	{% else %}
+	<h2 class="col-12">{{ resource.session_name }}</h2>
+	{% endunless %}
+	{% endfor %}
+    </div>
+</div>
+		

@@ -22,15 +22,6 @@ h6 {
     font-weight: 800;
 }
 
-a {
-    color: $gray-900;
-
-    &:focus,
-    &:hover {
-        color: $primary;
-    }
-}
-
 blockquote {
     font-style: italic;
     color: $gray-600;

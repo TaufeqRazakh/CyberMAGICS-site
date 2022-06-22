@@ -17,7 +17,7 @@
 
 - time: 12:00 pm - 2:00 pm
   topic: "Reactive molecular dynamics hands on: RXMD code"
-  instructor: Ankit Mishra, Nitish Baradwaj
+  instructor: Ankit Mishra, Nitish Baradwaj, Pranab Sarker, Ruru Ma
 
 - time: 2:00 pm - 3:00 pm
   topic: Machine learning basics
@@ -27,7 +27,7 @@
 
 - time: 8:00 am - 9:00 am
   topic: Machine learning hands-on
-  instructor: Ankit Mishra, Nitish Baradwaj
+  instructor: Ankit Mishra, Nitish Baradwaj, Taufeq Razakh
 
 - time: 9:00 am - 10:00 am
   topic: Quantum molecular dynamics basics
@@ -35,18 +35,18 @@
 
 - time: 10:00 am - 11:00 am
   topic: "Quantum molecular dynamics hands-on: QXMD code (part 1)"
-  instructor: Thomas Linker, Anikeya Aditya
+  instructor: Thomas Linker, Anikeya Aditya, Liqiu Yang
 
 - time: 11:00 am - 12:00 pm
   topic: Lunch break 
 
 - time: 12:00 pm - 1:00 pm
   topic: "Quantum molecular dynamics hands-on: QXMD code (part 2)"
-  instructor: Thomas Linker, Anikeya Aditya
+  instructor: Thomas Linker, Anikeya Aditya, Liqiu Yang
 
 - time: 1:00 pm - 3:00 pm
   topic: Quantum computing basics and hands-on
-  instructor: Aiichiro Nakano, Shogo Fukushima
+  instructor: Aiichiro Nakano, Shogo Fukushima, Taufeq Razakh
   
 - day: Saturday, July 2, 2022
 

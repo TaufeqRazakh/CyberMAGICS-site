@@ -9,10 +9,10 @@ title: Courseware
 	{% for resource in site.data.workshop_resources %}
 	{% unless resource.session_name %}
 	<div class="col-5" >
-		{% if resource.active == "yes"%}
+		{% if resource.active%}
 		<a href={{resource.link}}>{{ resource.name }}</a>
 		{% else %}
-		<a href="#">{{ resource.name }}</a>		
+		{{ resource.name }}		
 		{% endif %}
 	</div>
 	{% else %}

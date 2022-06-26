@@ -25,8 +25,8 @@
 - session_name: Quantum Molecular Dynamics (QMD), QXMD Software
 
 - name: QMD lecture
-  link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/QMD-Nakano.pdf"
-  active: false 
+  link: "resources/QMD-lecture.pdf"
+  active: true 
   
 - name: QXMD hands-on notebook
   link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Intro_to_QXMD.pdf"
@@ -45,9 +45,17 @@
 - session_name: Quantum Computing (QC)
 
 - name: QC lecture
-  link: "https://drive.google.com/drive/folders/1EMoDyo75gTuxrAOTi0Mi_dCGBz9o_vd2"
-  active: false 
-  
+  link: "resources/QComp-lecture.pdf"
+  active: true 
+
+- name: "tutorial 1: qubits & quantum gates"
+  link: "resources/QComp-tutorial1.pdf"
+  active: true
+
+- name: "tutorial 2: quantum dynamics simulation"
+  link: "resources/QComp-tutorial2.pdf"
+  active: true
+
 - name: QC hands-on
   link: "https://drive.google.com/drive/folders/1EMoDyo75gTuxrAOTi0Mi_dCGBz9o_vd2"
   active: false

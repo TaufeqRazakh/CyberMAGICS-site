@@ -18,6 +18,9 @@ layout: default
   </header>
 
   <div class="container">
+	  {% if page.alert %}
+	    {% include {{ page.alert }} %}
+	  {% endif %}
 	  <div class="card mb-3">
 	    <div class="row g-0">
 	      <div class="col-md-6">

@@ -4,7 +4,7 @@
   link: "resources/Intro-CyberMAGICS.pdf"
   active: true
 
-- name: Google collab
+- name: Google colab
   link: "resources/GoogleColabSetup.pdf"
   active: true
   
@@ -55,10 +55,6 @@
 - name: "tutorial 2: quantum dynamics simulation"
   link: "resources/QComp-tutorial2.pdf"
   active: true
-
-- name: QC hands-on
-  link: "https://drive.google.com/drive/folders/1EMoDyo75gTuxrAOTi0Mi_dCGBz9o_vd2"
-  active: false
   
 - session_name: Miscellaneous
 

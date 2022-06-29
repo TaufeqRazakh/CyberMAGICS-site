@@ -29,8 +29,8 @@
   active: true 
   
 - name: QXMD hands-on notebook
-  link: "https://1b94fy41h8ui2h6f4n18n1dl-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Intro_to_QXMD.pdf"
-  active: false 
+  link: "https://colab.research.google.com/drive/13TrHomu_jYb2N4SMybRYRkeCEHd6-N_9?usp=sharing"
+  active: true 
   
 - session_name: Machine Learning (ML)
 

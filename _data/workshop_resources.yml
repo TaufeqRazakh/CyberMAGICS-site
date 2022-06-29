@@ -39,8 +39,8 @@
   active: true 
   
 - name: ML hands-on notebook
-  link: "https://drive.google.com/drive/folders/1EMoDyo75gTuxrAOTi0Mi_dCGBz9o_vd2"
-  active: false 
+  link: "https://colab.research.google.com/drive/13AOt3dvRIbNyNroEyai299cIxpjzaK2p?usp=sharing"
+  active: true 
   
 - session_name: Quantum Computing (QC)
 

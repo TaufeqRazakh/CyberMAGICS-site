@@ -17,6 +17,10 @@
 - name: RMD lecture
   link: "resources/RXMD-lecture.pdf"
   active: true 
+
+- name: RXMD tutorial
+  link: "resources/RXMD-tutorial.pdf"
+  active: true
   
 - name: RXMD hands-on notebook
   link: "https://colab.research.google.com/drive/1am7S5saZHofYG-knWzQqvc2x6ueNS4AA?usp=sharing"

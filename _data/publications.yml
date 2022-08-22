@@ -1,3 +1,11 @@
+- title: "VLA-SMILES: variable-length-array SMILES descriptors in neural network-based QSAR modeling"
+  author: A. Nazarova and A. Nakano
+  publisher: Journal of Machine Learning and Knowledge Extraction
+  page: 4
+  volume: 715-737
+  year: 2022
+  link: https://www.mdpi.com/2504-4990/4/3/34 
+
 - title: Multiscale graph neural networks for protein residue contact map prediction
   author: K. Liu, R. K. Kalia, X. Liu, A. Nakano, K. Nomura, and Priya Vashishta
   publisher: Proceedings of International Conference on Artificial Intelligence (ICAI)

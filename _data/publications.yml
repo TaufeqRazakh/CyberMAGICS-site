@@ -1,3 +1,19 @@
+- title: Photoexcitation-induced nonthermal ultrafast loss of long-range order in GeTe
+  author: L. Yang, S. C. Tiwari, S. Fukushima, F. Shimojo, R. K. Kalia, A. Nakano, P. Vashishta, and P. S. Branicio
+  publisher: Journal of Physical Chemistry Letters
+  page: 13
+  volume: 10230-10236
+  year: 2022
+  link: https://pubs.acs.org/doi/10.1021/acs.jpclett.2c02448
+
+- title: "Squishing skyrmions: symmetry guided dynamic transformation of polar topologies under compression"
+  author: T. Linker, K. Nomura, S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, K. Shimamura, F. Shimojo, and P. Vashishta
+  publisher: Journal of Physical Chemistry Letters
+  page: 13
+  volume: 11335-11345
+  year: 2022
+  link: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c03029
+
 - title: "VLA-SMILES: variable-length-array SMILES descriptors in neural network-based QSAR modeling"
   author: A. Nazarova and A. Nakano
   publisher: Journal of Machine Learning and Knowledge Extraction
@@ -9,8 +25,8 @@
 - title: Multiscale graph neural networks for protein residue contact map prediction
   author: K. Liu, R. K. Kalia, X. Liu, A. Nakano, K. Nomura, and Priya Vashishta
   publisher: Proceedings of International Conference on Artificial Intelligence (ICAI)
-  volume: accepted
   year: 2022
+	link: https://arxiv.org/abs/2212.02251
 
 - title: Probing electron transfer between metal atoms, clusters, and C60 in helium nanodroplets
   author: J. W. Niman, B. S. Kamerin, T. H. Villers, T. M. Linker, A. Nakano, and V. V. Kresin

@@ -2,52 +2,48 @@
 
 - time: 8:00 am - 9:00 am
   topic: Introduction and logistics
-  instructor: ---
+  instructor: Aiichiro Nakano
 
 - time: 9:00 am - 10:00 am
   topic: Molecular dynamics simulation basics
-  instructor: ---
+  instructor: Priya Vashishta
 
 - time: 10:00 am - 11:00 am
   topic: Reactive molecular dynamics basics
-  instructor: ---
+  instructor: Ken-ichi Nomura
 
 - time: 11:00 am - 12:00 pm
   topic: Lunch break 
 
-- time: 12:00 pm - 2:00 pm
+- time: 12:00 pm - 1:30 pm
   topic: "Reactive molecular dynamics hands on: RXMD code"
-  instructor: --
+  instructor: Nitish Baradwaj, Ruru Ma, Tian Sang, Hind Aljaddani
 
-- time: 2:00 pm - 3:00 pm
+- time: 1:30 pm - 2:30 pm
   topic: Machine learning basics
-  instructor: ---
+  instructor: Ken-ichi Nomura
 
 - day: Friday, June 30, 2023
 
-- time: 8:00 am - 9:00 am
+- time: 8:00 am - 10:00 am
   topic: Machine learning hands-on
-  instructor: ---
-
-- time: 9:00 am - 10:00 am
-  topic: Quantum molecular dynamics basics
-  instructor: ---
+  instructor: Anikeya Aditya, Nitish Baradwaj, Taufeq Razakh, Liqiu Yang
 
 - time: 10:00 am - 11:00 am
-  topic: "Quantum molecular dynamics hands-on: QXMD code (part 1)"
-  instructor: ---
+  topic: Quantum molecular dynamics basics
+  instructor: Aiichiro Nakano
 
 - time: 11:00 am - 12:00 pm
   topic: Lunch break 
 
-- time: 12:00 pm - 1:00 pm
-  topic: "Quantum molecular dynamics hands-on: QXMD code (part 2)"
-  instructor: ---
+- time: 12:00 pm - 1:30 pm
+  topic: "Quantum molecular dynamics hands-on: QXMD code"
+  instructor: Anikeya Aditya, Ayu Irie, Liqiu Yang, Jingxin Zhang
 
-- time: 1:00 pm - 3:00 pm
+- time: 1:30 pm - 2:30 pm
   topic: Quantum computing basics and hands-on
-  instructor: ---
-  
+  instructor: Aiichiro Nakano
+    
 - day: Saturday, July 1, 2023
 
 - time: 9:00 am - 11:00 am
@@ -56,5 +52,5 @@
 
 - time: 11:00 am - 11:15 am
   topic: Closing remarks
-  instructor: ---
+  instructor: Pratibha Dev, Tao Wei
   

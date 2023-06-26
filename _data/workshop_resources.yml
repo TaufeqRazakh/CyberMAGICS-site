@@ -54,7 +54,7 @@
 
 - name: QC lecture
   link: "resources/QComp-lecture.pdf"
-  active: true 
+  active: true
 
 - name: "tutorial 1: qubits & quantum gates"
   link: "resources/QComp-tutorial1.pdf"

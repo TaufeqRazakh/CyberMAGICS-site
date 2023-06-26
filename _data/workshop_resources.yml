@@ -33,7 +33,7 @@
   active: true 
   
 - name: QXMD hands-on notebook
-  link: "https://colab.research.google.com/drive/13O6qVzpgknShG8vMAbE91ZnGd3CvenHm"
+  link: "https://colab.research.google.com/drive/12m9scx8NdQVdSFkBZy1Cx8gxoHCJFqjC?usp=sharing"
   active: true 
   
 - session_name: Machine Learning (ML)
@@ -43,7 +43,7 @@
   active: true 
   
 - name: "ML hands-on notebook 1: MLP"
-  link: "https://colab.research.google.com/drive/1or8yk_yctfJ4bIKUC7I0tuB08bal8jRh"
+  link: "https://colab.research.google.com/drive/1MVhflW_c1MB-pQnWZgQpfwBmNSYVosST?usp=sharing"
   active: true 
 
 - name: "ML hands-on notebook 2: CNN"

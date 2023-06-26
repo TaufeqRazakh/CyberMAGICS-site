@@ -23,7 +23,7 @@
   active: true
   
 - name: RXMD hands-on notebook
-  link: "https://drive.google.com/file/d/1aan4VOGuWKttvUJ0xseP-A8le5L0W-Yv/view?ts=6499dbe3"
+  link: "https://colab.research.google.com/drive/1aan4VOGuWKttvUJ0xseP-A8le5L0W-Yv"
   active: true 
   
 - session_name: Quantum Molecular Dynamics (QMD), QXMD Software
@@ -33,7 +33,7 @@
   active: true 
   
 - name: QXMD hands-on notebook
-  link: "https://colab.research.google.com/drive/13TrHomu_jYb2N4SMybRYRkeCEHd6-N_9?usp=sharing"
+  link: "https://colab.research.google.com/drive/13O6qVzpgknShG8vMAbE91ZnGd3CvenHm"
   active: true 
   
 - session_name: Machine Learning (ML)
@@ -42,12 +42,12 @@
   link: "resources/Ml-lecture.pdf"
   active: true 
   
-- name: ML hands-on notebook 1
-  link: "https://drive.google.com/file/d/1or8yk_yctfJ4bIKUC7I0tuB08bal8jRh/view?ts=6499dc17"
+- name: "ML hands-on notebook 1: MLP"
+  link: "https://colab.research.google.com/drive/1or8yk_yctfJ4bIKUC7I0tuB08bal8jRh"
   active: true 
 
-  -name: ML hands-on notebook 2
-  link: "https://drive.google.com/file/d/1or8yk_yctfJ4bIKUC7I0tuB08bal8jRh/view?ts=6499dc17"
+  -name: "ML hands-on notebook 2: CNN"
+  link: "https://colab.research.google.com/drive/1SgeFdDhJ_uf3Qt3o9GQ1YPlNBiW0gbcm"
   active: true 
   
 - session_name: Quantum Computing (QC)

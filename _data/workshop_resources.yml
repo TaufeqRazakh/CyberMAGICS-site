@@ -23,7 +23,7 @@
   active: true
   
 - name: RXMD hands-on notebook
-  link: "https://colab.research.google.com/drive/1aan4VOGuWKttvUJ0xseP-A8le5L0W-Yv"
+  link: "https://colab.research.google.com/drive/19iRCH_4pHwXQEfCWYyYG6_g2g5rqSMdK?usp=sharing"
   active: true 
   
 - session_name: Quantum Molecular Dynamics (QMD), QXMD Software

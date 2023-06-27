@@ -31,6 +31,10 @@
 - name: QMD lecture
   link: "resources/QMD-lecture.pdf"
   active: true 
+
+- name: QXMD tutorial
+  link: "resources/QXMD-tutorial.pdf"
+  active: true 
   
 - name: QXMD hands-on notebook
   link: "https://colab.research.google.com/drive/12m9scx8NdQVdSFkBZy1Cx8gxoHCJFqjC?usp=sharing"

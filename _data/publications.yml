@@ -1,3 +1,16 @@
+- title: "Allegro-Legato: scalable, fast, and robust neural-network quantum molecular dynamics via sharpness-aware minimization"
+  author: H. Ibayashi, T. M. Razakh, L. Yang, T. Linker, M. Olguin, S. Hattori, Y. Luo, R. K. Kalia, A. Nakano, K. Nomura, and P. Vashishta
+  publisher: ISC High Performance, LNCS
+  page: 13948
+  volume: 223-239 
+  year: 2023
+  link: https://link.springer.com/chapter/10.1007/978-3-031-32041-5_12
+
+- title: "CyberMAGICS: Cyber Training on Materials Genome Innovation for Computational Software for Future Engineers"
+  author: K. Nomura, P. Dev, A. Nakano, P. Vashishta, and T. Wei
+  publisher: American Society for Engineering Education (ASEE) Pacific Southwest Section Meeting 
+  year: 2023
+
 - title: Photoexcitation-induced nonthermal ultrafast loss of long-range order in GeTe
   author: L. Yang, S. C. Tiwari, S. Fukushima, F. Shimojo, R. K. Kalia, A. Nakano, P. Vashishta, and P. S. Branicio
   publisher: Journal of Physical Chemistry Letters

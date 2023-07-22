@@ -15,11 +15,9 @@ title: PUBLICATIONS
           {% endif %}
           <br />
           {{paper.author}}
-          <br />
-          {% if paper.publisher and paper.volume %}
+          <br />          
           <i>{{paper.publisher}} </i> <strong>{{paper.page}}</strong>, {{paper.volume}}
           ({{paper.year}})
-          {% endif %}
         </li>
         {% endfor %}
       </ol>

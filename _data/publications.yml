@@ -1,3 +1,11 @@
+- title: "Scalable computation of anisotropic vibrations for large macromolecular assemblies"
+  author: J. H. Lam, A. Nakano, and V. Katritch
+  publisher: Nature Communications
+  page: 15
+  volume: "3479: 1-16"
+  year: 2024
+  link: https://link.springer.com/article/10.1038/s41467-024-47685-8
+
 - title: "Allegro-Legato: scalable, fast, and robust neural-network quantum molecular dynamics via sharpness-aware minimization"
   author: H. Ibayashi, T. M. Razakh, L. Yang, T. Linker, M. Olguin, S. Hattori, Y. Luo, R. K. Kalia, A. Nakano, K. Nomura, and P. Vashishta
   publisher: ISC High Performance, LNCS

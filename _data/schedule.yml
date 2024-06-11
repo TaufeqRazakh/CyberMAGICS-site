@@ -9,25 +9,25 @@
   instructor: Priya Vashishta
 
 - time: 10:00 am - 11:00 am
-  topic: Reactive molecular dynamics basics
-  instructor: Ken-ichi Nomura
+  topic: Quantum molecular dynamics basics
+  instructor: Aiichiro Nakano
 
 - time: 11:00 am - 12:00 pm
   topic: Lunch break 
 
 - time: 12:00 pm - 1:30 pm
-  topic: "Reactive molecular dynamics hands on: RXMD code"
-  instructor: Nitish Baradwaj, Ruru Ma, Tian Sang, Pranab Sarker
+  topic: "Quantum molecular dynamics hands-on: QXMD code"
+  instructor: Anikeya Aditya, Taufeq Razakh, Hinata Hokyo, Logan Yamamoto
 
 - time: 1:30 pm - 2:30 pm
-  topic: Quantum molecular dynamics basics
-  instructor: Aiichiro Nakano
+  topic: Reactive molecular dynamics lecture
+  instructor: Ken-ichi Nomura
 
 - day: Wednesday, June 26, 2024
 
 - time: 8:00 am - 9:30 am
-  topic: "Quantum molecular dynamics hands-on: QXMD code"
-  instructor: Anikeya Aditya, Hinata Hokyo, Jingxin Zhang
+  topic: "Reactive molecular dynamics hands on: RXMD code"
+  instructor: Nitish Baradwaj, Jingxin Zhang, Pranab Sarker, Tyler Zheng
 
 - time: 9:30 am - 10:30 am
   topic: Machine learning and AI basics
@@ -38,7 +38,7 @@
 
 - time: 11:30 pm - 1:30 pm
   topic: Machine learning and AI hands-on
-  instructor: Anikeya Aditya, Nitish Baradwaj, Taufeq Razakh
+  instructor: Ruru Ma, Tian Sang, Taufeq Razakh
 
 - time: 1:30 pm - 2:30 pm
   topic: Participant presentations

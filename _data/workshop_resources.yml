@@ -11,7 +11,21 @@
 - name: Molecular dynamics simulation basics
   link: "resources/MD-sim-lecture.pdf"
   active: true 
+
+- session_name: Quantum Molecular Dynamics (QMD), QXMD Software
+
+- name: QMD lecture
+  link: "resources/QMD-lecture.pdf"
+  active: true 
+
+- name: QXMD tutorial
+  link: "resources/QXMD-tutorial.pdf"
+  active: true 
   
+- name: QXMD hands-on notebook
+  link: "https://drive.google.com/file/d/1P8nj5xbtJ2OjfTdXzFmMCdDKxXekKDGD/view?usp=share_link"
+  active: true 
+
 - session_name: Reactive Molecular Dynamics (RMD), RXMD Software
 
 - name: RMD lecture
@@ -25,21 +39,7 @@
 - name: RXMD hands-on notebook
   link: "https://drive.google.com/file/d/1U6Z1oi6PpQqdjIgci2t2HBmRBBq2hOHx/view?usp=drive_link"
   active: true 
-  
-- session_name: Quantum Molecular Dynamics (QMD), QXMD Software
-
-- name: QMD lecture
-  link: "resources/QMD-lecture.pdf"
-  active: true 
-
-- name: QXMD tutorial
-  link: "resources/QXMD-tutorial.pdf"
-  active: true 
-  
-- name: QXMD hands-on notebook
-  link: "https://drive.google.com/file/d/1P8nj5xbtJ2OjfTdXzFmMCdDKxXekKDGD/view?usp=sharing"
-  active: true 
-  
+    
 - session_name: Machine Learning (ML)
 
 - name: ML lecture
@@ -53,21 +53,7 @@
 - name: "ML hands-on notebook 2: CNN"
   link: "https://drive.google.com/file/d/1qXH2co3opude9WDlgHAKuEA2E3FfSQNz/view?usp=drive_link"
   active: true 
-  
-- session_name: Quantum Computing (QC)
-
-- name: QC lecture
-  link: "resources/QComp-lecture.pdf"
-  active: true
-
-- name: "tutorial 1: qubits & quantum gates"
-  link: "resources/QComp-tutorial1.pdf"
-  active: true
-
-- name: "tutorial 2: quantum dynamics simulation"
-  link: "resources/QComp-tutorial2.pdf"
-  active: true
-  
+    
 - session_name: Miscellaneous
 
 - name: Participant introduction template

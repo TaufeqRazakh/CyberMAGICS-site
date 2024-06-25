@@ -37,7 +37,7 @@
   active: true
   
 - name: RXMD hands-on notebook
-  link: "https://drive.google.com/file/d/1U6Z1oi6PpQqdjIgci2t2HBmRBBq2hOHx/view?usp=drive_link"
+  link: "https://colab.research.google.com/drive/1U6Z1oi6PpQqdjIgci2t2HBmRBBq2hOHx"
   active: true 
     
 - session_name: Machine Learning (ML)

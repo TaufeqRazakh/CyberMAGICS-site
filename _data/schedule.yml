@@ -1,36 +1,40 @@
-- day: Tuesday, June 25, 2024
+- day: Thursday, June 5, 2025
 
 - time: 8:00 am - 9:00 am
   topic: Introduction and logistics
   instructor: Aiichiro Nakano
 
-- time: 9:00 am - 10:00 am
+- time: 9:00 am - 9:40 am
   topic: Molecular dynamics simulation basics
   instructor: Priya Vashishta
 
-- time: 10:00 am - 11:00 am
-  topic: Quantum molecular dynamics basics
+- time: 9:40 am - 10:20 am
+  topic: Density functional theory basics
+  instructor: Pratibha Dev
+
+- time: 10:20 am - 11:00 am
+  topic: Quantum molecular dynamics lecture
   instructor: Aiichiro Nakano
 
 - time: 11:00 am - 12:00 pm
-  topic: Lunch break 
+  topic: Lunch break
 
 - time: 12:00 pm - 1:30 pm
   topic: "Quantum molecular dynamics hands-on: QXMD code"
-  instructor: Anikeya Aditya, Suryakanti Debata, Hinata Hokyo, Taufeq Razakh, Logan Yamamoto
+  instructor: Nabankur Dasgupta, Taufeq Razakh, Anikeya Aditya, Suryakanti Debata
 
 - time: 1:30 pm - 2:30 pm
   topic: Reactive molecular dynamics lecture
   instructor: Ken-ichi Nomura
 
-- day: Wednesday, June 26, 2024
+- day: Friday, June 6, 2025
 
 - time: 8:00 am - 9:30 am
   topic: "Reactive molecular dynamics hands on: RXMD code"
-  instructor: Nitish Baradwaj, Jingxin Zhang, Pranab Sarker, Tyler Zheng
+  instructor: Nitish Baradwaj, Pranab Sarker
 
 - time: 9:30 am - 10:30 am
-  topic: Machine learning and AI basics
+  topic: Machine learning and AI lecture
   instructor: Ken-ichi Nomura
 
 - time: 10:30 am - 11:30 am

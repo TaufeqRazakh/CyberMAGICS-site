@@ -31,18 +31,18 @@
 
 - time: 8:00 am - 9:30 am
   topic: "Reactive molecular dynamics hands on: RXMD code"
-  instructor: Nitish Baradwaj, Pranab Sarker
+  instructor: Tian Sang, Marco Olguin, Nitish Baradwaj, Pranab Sarker
 
 - time: 9:30 am - 10:30 am
   topic: Machine learning and AI lecture
   instructor: Ken-ichi Nomura
 
 - time: 10:30 am - 11:30 am
-  topic: Lunch break 
+  topic: Lunch break
 
 - time: 11:30 am - 1:30 pm
   topic: Machine learning and AI hands-on
-  instructor: Ruru Ma, Tian Sang, Taufeq Razakh
+  instructor: Marco Olguin, Tian Sang, Ruru Ma
 
 - time: 1:30 pm - 2:30 pm
   topic: Participant presentations

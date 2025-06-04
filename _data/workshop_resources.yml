@@ -29,29 +29,29 @@
 - session_name: Reactive Molecular Dynamics (RMD), RXMD Software
 
 - name: RMD lecture
-  link: "resources/RXMD-lecture.pdf"
+  link: "resources/RXMD-lecture25.pdf"
   active: true 
 
 - name: RXMD tutorial
-  link: "resources/RXMD-tutorial.pdf"
+  link: "resources/RXMD-Tutorial25.pdf"
   active: true
   
 - name: RXMD hands-on notebook
-  link: "https://colab.research.google.com/drive/1U6Z1oi6PpQqdjIgci2t2HBmRBBq2hOHx"
+  link: "https://drive.google.com/file/d/1U6Z1oi6PpQqdjIgci2t2HBmRBBq2hOHx/view?usp=sharing"
   active: true 
     
 - session_name: Machine Learning (ML)
 
 - name: ML lecture
-  link: "resources/Ml-lecture.pdf"
+  link: "resources/2025_ML-lecture.pdf"
   active: true 
   
 - name: "ML hands-on notebook 1: MLP"
-  link: "https://drive.google.com/file/d/1XhzmECgY6dZscxulEEOzKoYdPzt5Rgwu/view?usp=drive_link"
+  link: "https://drive.google.com/file/d/1SKutdJvDGOwCKjdMe5RyIGYsbc_KKWxF/view?usp=sharing"
   active: true 
 
 - name: "ML hands-on notebook 2: CNN"
-  link: "https://drive.google.com/file/d/1qXH2co3opude9WDlgHAKuEA2E3FfSQNz/view?usp=drive_link"
+  link: "https://drive.google.com/file/d/18fhRhMVUbyXGGF5SFREAWpvnIdF9BQF4/view?usp=sharing"
   active: true 
     
 - session_name: Miscellaneous
